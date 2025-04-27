@@ -3,14 +3,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Rahat+Rihan" alt="Typing SVG">
   </a>
 </h1>
-<!-- <h6 align="center">I have many dreams, and though I may have started late, I am giving everything I have to pursue them. One day, I will prove that determination and hard work can make anything possible</h6> -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rahatRiSD&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/arupcha01935516" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/arupcha01935516?logo=twitter&style=for-the-badge" alt="Follow on Twitter" />
+  <a href="https://x.com/RRihan43160" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/RRihan43160?logo=twitter&style=for-the-badge" alt="Follow on Twitter" />
   </a>
 </p>
 
@@ -27,18 +26,17 @@
 <ul>
   <li>All of my projects are available at <a href="https://github.com/rahatRiSD/Web-SIte-Link">GitHub</a></li>
   <li>💬 Ask me about anything</li>
-  <li>📫 How to reach me: <strong>arupchakraborty153@gmail.com</strong></li>
+  <li>📫 How to reach me: <strong>rahatrihan083@gmail.com</strong></li>
   <li>📄 Know about my experiences: <a href="https://arupchakraborty.netlify.app/">Portfolio</a></li>
 </ul>
 
 <hr />
 
-
 <h3 align="left">💻 Work Experience</h3>
 <ul>
   <li>
     <h4>Junior Software Developer</h4>
-    <p><strong>TekShilpa Limited</strong> — <em>October 2024 - Present</em></p>
+    <p><strong>TekShilpa Limited</strong> — <em>February 2022 - Present</em></p>
     <p>• Developing innovative solutions using Java Spring Boot, Angular, and other technologies to optimize performance and user experience.</p>
   </li>
   <br/>
@@ -49,84 +47,53 @@
   </li>
 </ul>
 
-
 <hr>
-  
+
 <h3 align="left">🎓Education</h3>
--Daffodil International University, B.Sc. in Computer Science and Engineering
+<p>- American International University-Bangladesh. Completing B.Sc. in Computer Science and Engineering</p>
 <hr>
 
 <h3 align="left">📚Training</h3>
-
-- Java2EE in BJIT
-
-- Web Development(MERN)in Programming Hero
-
-
-- Front-End_Mastery in DIUCPC
+<ul>
+  <li>Java2EE in TekShilpa</li>
+  <li>Web Development(MERN) in Programming Hero</li>
+  <li>Front-End Mastery in DIUCPC</li>
+</ul>
 <hr>
 
 <h3 align="left">🗃️Project</h3>
 
 - <a href="https://github.com/rahatRiSD/evaluation-management-system-springboot">Evaluation Management System</a>
-
   <h6>Technology Used:Spring Boot,Spring Security,JPA,JSON Web Tokens (JWT),Gradle,MySQL,ReactJS,React Bootstrap,CSS,MUI</h6>
-          
-  
+
 - <a href="https://girls-world-9147f.web.app/">Girls World</a>
- 
   <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router, Bootstrap,Express,MongoDB,MUI</h6>
 
 - <a href="https://carnava-by-arup.netlify.app/">Carvana-website</a>
-
   <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router,React Bootstrap,Express,MongoDB</h6>
-
-
-
-<hr>
-<h3 align="left">📝 Blogs and writing</h3>
-
-- <a href="https://medium.com/@arupchakraborty153">Medium<a>
- 
 
 <hr>
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/arupcha01935516" target="_blank">
+  <a href="https://x.com/RRihan43160" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&logo=twitter&logoColor=FFFFFF" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/arup-chakraborty-425b73221" target="_blank">
+  <a href="https://www.linkedin.com/in/rahat-rihan/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
   </a>
-  <a href="https://stackoverflow.com/users/19351108" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Stack%20Overflow&color=FE7A16&logo=stackoverflow&logoColor=FFFFFF" alt="Stack Overflow"/>
-  </a>
-  <a href="https://fb.com/arup.chakraborty.108889" target="_blank">
+  <a href="https://www.facebook.com/rahat.rihan.7" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&logo=facebook&logoColor=FFFFFF" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/arup_chakra_borty" target="_blank">
+  <a href="https://www.instagram.com/rahat_rihan083/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
   </a>
-  <a href="https://www.codechef.com/users/arupchakrab" target="_blank">
+  <a href="https://www.codechef.com/users/rahatrihan" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=CodeChef&color=5B4638&logo=codechef&logoColor=FFFFFF" alt="CodeChef"/>
   </a>
-  <a href="https://www.hackerrank.com/arupchakraborty3" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=HackerRank&color=2EC866&logo=hackerrank&logoColor=FFFFFF" alt="HackerRank"/>
-  </a>
-  <a href="https://codeforces.com/profile/aru_p" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Codeforces&color=1F8ACB&logo=codeforces&logoColor=FFFFFF" alt="Codeforces"/>
-  </a>
-  <a href="https://www.leetcode.com/arupchakraborty153" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=LeetCode&color=FFA116&logo=leetcode&logoColor=FFFFFF" alt="LeetCode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/arupchakra2wv9" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=GeeksforGeeks&color=0F9D58&logo=geeksforgeeks&logoColor=FFFFFF" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://discord.gg/Arup#6375" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Discord&color=5865F2&logo=discord&logoColor=FFFFFF" alt="Discord"/>
+  <a href="https://www.youtube.com/@rahatrihan8483" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=YouTube&color=FF0000&logo=youtube&logoColor=FFFFFF" alt="YouTube"/>
   </a>
 </p>
-
 
 <hr>
 <h2 align="left">💻 Skills</h2>
