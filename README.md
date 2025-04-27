@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/rahatRiSD">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Arup+Chakraborty" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Rahat+Rihan" alt="Typing SVG">
   </a>
 </h1>
 <!-- <h6 align="center">I have many dreams, and though I may have started late, I am giving everything I have to pursue them. One day, I will prove that determination and hard work can make anything possible</h6> -->
