@@ -27,7 +27,7 @@
   <li>All of my projects are available at <a href="https://github.com/rahatRiSD/Web-SIte-Link">GitHub</a></li>
   <li>💬 Ask me about anything</li>
   <li>📫 How to reach me: <strong>rahatrihan083@gmail.com</strong></li>
-  <li>📄 Know about my experiences: <a href="https://arupchakraborty.netlify.app/">Portfolio</a></li>
+  
 </ul>
 
 <hr />
